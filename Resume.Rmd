@@ -1,0 +1,7 @@
+---
+title: Last updated 07/09/19
+output: html_document
+---
+```{r label, out.width = "90%",echo=FALSE}
+knitr::include_graphics("resume.jpg")
+```
