@@ -3,4 +3,6 @@ title: "Sample Projects"
 output: html_document
 ---
 
-put projects
+```{r 522project, echo=FALSE}
+[![Statistical for Behavioral Science Project](522cover.png)](https://jpean.github.io/522-Final-Project)
+```
