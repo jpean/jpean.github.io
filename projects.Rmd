@@ -11,6 +11,6 @@ output:
 
 ## PUBg Predictive Analytics Machine Learning
 
-[![516 Final Project](pubg.jpg){width=400px}](https://drive.google.com/open?id=1heD3FAqFJeV9rtyDCebiL69ksoksmPoc)
+[![516 Final Project](pubg.jpg){width=400px}](https://drive.google.com/file/d/1heD3FAqFJeV9rtyDCebiL69ksoksmPoc/view?usp=sharing)
 
 *More Coming Soon*
