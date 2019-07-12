@@ -1,11 +1,14 @@
 name: "Joe's Website"
 output_dir: "."
 navbar:
-  title: "522 Project"
+  title: "Joe's Website"
   left:
-   - text: "Background/Introduction"
+   - text: "Joe's Homepage"
      href: index.html
-   - text: "Trends/Correlations"
-     href: analysis.html
-   - text: "Findings"
-     href: summary.html
+   - text: "Resume/CV"
+     href: Resume.html
+   - text: "Personal Project"
+     href: projects.html
+   - text: "Fun Photos"
+     href: photos.html
+     
