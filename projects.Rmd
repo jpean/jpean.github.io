@@ -9,13 +9,8 @@ output:
 
 [![522 Final Project](522cover.jpg){width=400px}](https://jpean.github.io/522-Final-Project)
 
-## Behavioral Science Design Challenge (Ipsos Mystery Shopper)
-
-[![522 Final Project](ipsos.jpg){width=400px}]()
-  - ![Presentation]()
-
 ## PUBg Predictive Analytics Machine Learning
 
-[![522 Final Project](pubg.jpg){width=400px}]()
+[![516 Final Project](pubg.jpg){width=400px}](https://drive.google.com/open?id=1heD3FAqFJeV9rtyDCebiL69ksoksmPoc)
 
 *More Coming Soon*
