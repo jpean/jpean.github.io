@@ -1,8 +1,12 @@
 ---
-title: "Sample Projects"
+title: "Joe's Projects"
 output: html_document
 ---
 
-```{r 522project, echo=FALSE}
-[![Statistical for Behavioral Science Project](522cover.png)](https://jpean.github.io/522-Final-Project)
+Coming Soon
+```{r 522pic,echo=FALSE}
+knitr::include_graphics("522cover.png")
 ```
+
+[![Statistical for Behavioral Science Project](522cover.png)](https://jpean.github.io/522-Final-Project)
+
