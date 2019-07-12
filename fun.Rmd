@@ -4,3 +4,4 @@ output: html_document
 ---
 
 put photos 
+https://photos.app.goo.gl/f7VZQRDCLsRXmvfy7
