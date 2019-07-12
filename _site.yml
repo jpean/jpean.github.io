@@ -1,0 +1,11 @@
+name: "Joe's Website"
+output_dir: "."
+navbar:
+  title: "522 Project"
+  left:
+   - text: "Background/Introduction"
+     href: index.html
+   - text: "Trends/Correlations"
+     href: analysis.html
+   - text: "Findings"
+     href: summary.html
