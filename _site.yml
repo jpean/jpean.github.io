@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Joe's Website"
   left:
-   - text: "Joe's Homepage"
+   - text: "Homepage"
      href: index.html
    - text: "Resume/CV"
      href: Resume.html
