@@ -1,6 +1,8 @@
 ---
 title: "Photos"
-output: html_document
+output: 
+  html_document:
+    theme: simplex
 ---
 
 ```{r photos,echo=FALSE}

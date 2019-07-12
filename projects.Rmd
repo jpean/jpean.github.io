@@ -1,9 +1,11 @@
 ---
 title: "Joe's Projects"
-output: html_document
+output: 
+  html_document:
+    theme: simplex
 ---
 
-Coming Soon
+*Coming Soon*
 
 ```{r 522pic,echo=FALSE}
 knitr::include_graphics("522cover.png")

@@ -1,7 +1,9 @@
 ---
 title: "Joe Peanasky"
 subtitle: "Data Scientist - Behavioral Scientist"
-output: html_document
+output: 
+  html_document:
+    theme: simplex
 ---
 
 ```{r picture, out.width = "50%",out.extra='style="float:left; padding:15px"',echo=FALSE}
