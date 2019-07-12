@@ -3,6 +3,6 @@ title: "Photos"
 output: html_document
 ---
 
-```{r photos}
+```{r photos,echo=FALSE}
 htmltools::includeHTML("photos.html")
 ```
