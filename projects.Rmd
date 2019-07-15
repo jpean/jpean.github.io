@@ -5,14 +5,16 @@ output:
     theme: simplex
 ---
 
+[Check out my github](https://github.com/jpean)
+
 ## Trends for Behavioral and Data Science
 
 [![522 Final Project](522cover.jpg){width=400px}](https://jpean.github.io/522-Final-Project)
 
+# 
+
 ## PUBg Predictive Analytics Machine Learning
 
 [![516 Final Project](pubg.jpg){width=400px}](https://drive.google.com/file/d/1heD3FAqFJeV9rtyDCebiL69ksoksmPoc/view?usp=sharing)
-
-![Check out my github](https://github.com/jpean)
 
 *More Coming Soon*
