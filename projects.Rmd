@@ -13,4 +13,6 @@ output:
 
 [![516 Final Project](pubg.jpg){width=400px}](https://drive.google.com/file/d/1heD3FAqFJeV9rtyDCebiL69ksoksmPoc/view?usp=sharing)
 
+![Check out my github](https://github.com/jpean)
+
 *More Coming Soon*
