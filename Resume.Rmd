@@ -4,8 +4,6 @@ output:
     theme: simplex
 ---
 
-*Last updated 07/09/19*
+*Last updated 07/24/19*
 
-```{r label, out.width = "90%",echo=FALSE}
-knitr::include_graphics("resume.jpg")
-```
+![resume.jpg](https://docs.google.com/document/d/15D19ecT8WBE3bT1_nvt-y2m7wbLOji0H87zRhvfzXrk/edit?usp=sharing)
