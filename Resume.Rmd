@@ -6,4 +6,4 @@ output:
 
 *Last updated 07/24/19*
 
-![resume.jpg](https://docs.google.com/document/d/15D19ecT8WBE3bT1_nvt-y2m7wbLOji0H87zRhvfzXrk/edit?usp=sharing)
+[![My Resume](resume.jpg)](https://docs.google.com/document/d/15D19ecT8WBE3bT1_nvt-y2m7wbLOji0H87zRhvfzXrk/edit?usp=sharing)
