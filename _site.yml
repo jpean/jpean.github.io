@@ -1,5 +1,6 @@
 name: "Joe's Website"
 output_dir: "."
+theme: sandstone
 navbar:
   title: "Joe's Website"
   left:
