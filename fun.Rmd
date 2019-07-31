@@ -2,7 +2,7 @@
 title: "Photos"
 output: 
   html_document:
-    theme: simplex
+    theme: sandstone
 ---
 
 ```{r photos,echo=FALSE}

@@ -7,7 +7,7 @@ navbar:
      href: index.html
    - text: "Resume/CV"
      href: Resume.html
-   - text: "Personal Project"
+   - text: "Personal Projects"
      href: projects.html
    - text: "Fun Photos"
      href: photos.html
