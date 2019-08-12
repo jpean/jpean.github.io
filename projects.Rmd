@@ -14,4 +14,8 @@ output:
 
 [![516 Final Project](pubg.jpg){width=500px}](https://drive.google.com/file/d/1heD3FAqFJeV9rtyDCebiL69ksoksmPoc/view?usp=sharing)
 
+## Sample Shiny App: New York Times Best Sellers
+
+[![Sample Shiny App](NYTbs.png){width=400px}](https://jpean.shinyapps.io/the-app/)
+
 *More Coming Soon*
