@@ -10,6 +10,8 @@ output:
 
 [![522 Final Project](522cover.jpg){width=500px}](https://jpean.github.io/522-Final-Project)
 
+Pulling data from Google Trends I looked at the relationship of different key behavioral and data science terms over time. 
+
 ## PUBg Predictive Analytics: Machine Learning
 
 [![516 Final Project](pubg.jpg){width=500px}](https://drive.google.com/file/d/1heD3FAqFJeV9rtyDCebiL69ksoksmPoc/view?usp=sharing)
