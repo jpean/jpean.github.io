@@ -1,6 +1,6 @@
 ---
 title: "Joe Peanasky"
-subtitle: "Data Scientist - Behavioral Scientist"
+subtitle: "Behavioral Scientist - Data Scientist"
 output: 
   html_document:
     theme: sandstone
@@ -11,6 +11,6 @@ output:
 knitr::include_graphics("me.jpg")
 ```
 
-As I finish up my Master in Behavioral and Decision Sciences, I am already excited for my next opportunity to learn and grow. For now, my focus is continuing to improve my data science skills. While I have been using R and SQL for over 4 years, I just recently picked up Python. From simple analytics, regressions, and dashboard creations to a variety of machine learning techniques, the more data science I learn the more excited I become. Ideally, I can find an opportunity to leverage both my data skills and my understanding of human behavior to shape the world into a more positive and efficient place. 
+I have spent the last year diving deep into People Analytics, with an extra focus on Talent Acquisition, but I am now looking for my next opportunity to learn and grow. I'm taking my expertise with data analytics, mostly using R and Tableau, and hoping to find a position that will allow me to use my background in decision sciences. To me, this means being able to lead discussions about decision criteria, metric creation, and methods of data collection. My goal is to help people realize the difference between data-driven and data-inspired to choose their best course of action.
 
 Beyond my academic and professional aspirations, I am an ever curious individual always trying to explore and master new skills. Looking through this website, you'll find photos from my adventures traveling the world and experiencing new cultures. Wherever I end up in life I hope to pursue my passions and hobbies including soccer, baking, and photography.
