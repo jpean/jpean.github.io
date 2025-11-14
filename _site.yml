@@ -13,3 +13,69 @@ navbar:
    - text: "Fun Photos"
      href: photos.html
      
+# This is the name displayed in the 'Actions' tab
+name: Render R Markdown to HTML
+
+# Controls when the workflow is triggered
+on:
+  push:
+    # Run the workflow every time a push is made to the 'main' branch
+    branches: [ main ]
+    # Run only if one of these RMD files is changed
+    paths:
+      - 'Resume.Rmd'
+      - 'fun.Rmd'
+      - 'index.Rmd'
+      - 'projects.Rmd'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# The job that runs the R code
+jobs:
+  render:
+    # Runs on the latest Ubuntu runner environment
+    runs-on: ubuntu-latest
+
+    # The steps that the runner will execute
+    steps:
+      # 1. Check out the repository content
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 2. Set up the R environment
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      # 3. Set up Pandoc (needed by rmarkdown)
+      - name: Set up Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        
+      # 4. Install R packages (rmarkdown and knitr are essential)
+      - name: Install dependencies
+        run: Rscript -e 'install.packages(c("rmarkdown", "knitr"))'
+
+      # 5. Render the RMD files to HTML (Updated for multiple files)
+      - name: Render R Markdown
+        run: |
+          Rscript -e 'rmarkdown::render("Resume.Rmd")'
+          Rscript -e 'rmarkdown::render("fun.Rmd")'
+          Rscript -e 'rmarkdown::render("index.Rmd")'
+          Rscript -e 'rmarkdown::render("projects.Rmd")'
+
+      # 6. Commit the resulting HTML files back to the repository
+      - name: Commit and Push results
+        run: |
+          # Use Git to check for changes and configure the committer
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add all generated files (HTML, figures, etc.)
+          git add .
+          
+          # Commit only if there are changes. 
+          git commit -m 'Auto-rendered multiple R Markdown files via GitHub Actions' || true
+          
+          # Push the changes back to the main branch
+          git push
