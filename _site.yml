@@ -1,17 +1,17 @@
-name: "Joe's Website"
-output_dir: "."
-theme: sandstone
-navbar:
-  title: "Joe's Website"
-  left:
-   - text: "Homepage"
-     href: index.html
-   - text: "Resume/CV"
-     href: Resume.html
-   - text: "Personal Projects"
-     href: projects.html
-   - text: "Fun Photos"
-     href: photos.html
+# name: "Joe's Website"
+# output_dir: "."
+# theme: sandstone
+# navbar:
+#   title: "Joe's Website"
+#   left:
+#    - text: "Homepage"
+#      href: index.html
+#    - text: "Resume/CV"
+#      href: Resume.html
+#    - text: "Personal Projects"
+#      href: projects.html
+#    - text: "Fun Photos"
+#      href: photos.html
      
 # This is the name displayed in the 'Actions' tab
 name: Render R Markdown to HTML
