@@ -4,20 +4,17 @@ output:
     theme: sandstone
 ---
 
-#[Check out my github](https://github.com/jpean)
+# [Check out my github](https://github.com/jpean)
 
 ## Trends for Behavioral and Data Science
 
 [![522 Final Project](522cover.jpg){width=500px}](https://jpean.github.io/522-Final-Project)
 
-Pulling data from Google Trends I looked at the relationship of different key behavioral and data science terms over time. 
+Pulling data from Google Trends I looked at the relationship of different key behavioral and data science terms over time. [School Project]
 
 ## PUBg Predictive Analytics: Machine Learning
 
 [![516 Final Project](pubg.jpg){width=500px}](https://drive.google.com/file/d/1heD3FAqFJeV9rtyDCebiL69ksoksmPoc/view?usp=sharing)
 
-## Sample Shiny App: New York Times Best Sellers
+Kaggle dataset for understanding user behavior in the video game PUBg. [School Project]
 
-[![Sample Shiny App](NYTbs.png){width=400px}](https://jpean.shinyapps.io/the-app/)
-
-*More Coming Soon*

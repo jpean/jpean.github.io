@@ -1,6 +1,6 @@
 ---
 title: "Joe Peanasky"
-subtitle: "Behavioral Scientist - Data Scientist"
+subtitle: "Data & Behavioral Scientist | 5+ Years of Experience in Data Analytics"
 output: 
   html_document:
     theme: sandstone
@@ -8,9 +8,28 @@ output:
 ---
 
 ```{r picture, out.width = "50%",out.extra='style="float:left; padding:15px"',echo=FALSE}
-knitr::include_graphics("me.jpg")
-```
+knitr::include_graphics("me_new.jpg")
 
-I have spent the last year diving deep into People Analytics, with an extra focus on Talent Acquisition, but I am now looking for my next opportunity to learn and grow. I'm taking my expertise with data analytics, mostly using R and Tableau, and hoping to find a position that will allow me to use my background in decision sciences. To me, this means being able to lead discussions about decision criteria, metric creation, and methods of data collection. My goal is to help people realize the difference between data-driven and data-inspired to choose their best course of action.
+Thanks for visiting my website! I've put this together as a small way to demonstrate my abilities and to show off that: I am an accomplished Data Analyst with over 5 years of experience specializing in leveraging data to drive strategic business decision-making.
 
-Beyond my academic and professional aspirations, I am an ever curious individual always trying to explore and master new skills. Looking through this website, you'll find photos from my adventures traveling the world and experiencing new cultures. Wherever I end up in life I hope to pursue my passions and hobbies including soccer, baking, and photography.
+A career highlight includes serving as the founding data analyst at my last company, where I was the first member of the analytics team hired. In this role, I successfully built the entire analytics function from 0 to 1, establishing foundational data processes and tools essential for scalable, data-driven decision-making across the organization.
+
+Core Analytical Expertise
+My expertise spans the full data and Business Intelligence (BI) lifecycle:
+
+Business Intelligence & Data Modeling: I have comprehensive experience building out the entire BI catalog for a company, ensuring data clarity and accessibility. I am proficient with a wide range of BI tools, including Tableau, Power BI, Looker, and Holistics.
+
+Performance Metrics & Experimentation: I excel at shaping, tracking, and communicating Key Performance Indicators (KPIs) across company-wide goals and specific teams/products. I have hands-on experience in A/B testing (design, execution, and analysis).
+
+Behavioral & Product Analysis: I utilize product analytics and behavioral tools like Amplitude and Google Analytics to understand user behavior and product performance.
+
+Survey Design & Analysis: Leveraging my background in academic research, I am an expert in survey methodology, including the design, execution, and rigorous analysis of results using tools such as Google Forms and Qualtrics.
+
+Technical & Soft Skills
+Technically, I possess advanced SQL querying skills, utilizing them for both complex ad hoc requests and building efficient ETL pipelines for data modeling. I am also highly proficient in R for in-depth statistical analysis.
+
+While my technical skills are top-notch, my true differentiator lies in my soft skills, my ability to communicate the big picture to technical and non-technical stakeholders, and my driving focus on improving organizational decision-making processes.
+
+I am particularly interested in the intersection of human and technical systems, with a focus on both Product and People Analytics. While I acknowledge the need to specialize eventually, I enjoy working with a diverse range of data challenges today.
+
+Beyond data, I remain an ever-curious individual dedicated to exploring and mastering new skills. On this site, you’ll find photos from my adventures traveling the world and experiencing new cultures. I pursue my passions and hobbies, including soccer, baking, and photography. There's a lot of life out there to live and I'm trying to have as much fun as I can along the way while I prove I'm more than your average Joe.
